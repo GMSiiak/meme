@@ -1,0 +1,31 @@
+
+body{
+    background-color: black;
+}
+h1, p{
+    color: white;
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+}
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+  
+ img[alt="angry cat"]{
+    border: 5px solid white;
+    width: 50%;
+    height: 25%;
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+}  
+div{
+    width: 50%;
+    margin-left: 25%;
+    ;
+}
